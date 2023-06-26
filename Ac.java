@@ -35,6 +35,7 @@ public class Ac {
 		this.model = model;
 		this.price = price;
 		this.noOfMonthsWarranty = noOfMonthsWarranty;
+		gud
 	}
 	@Override
 	public String toString() {
